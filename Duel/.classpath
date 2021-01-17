@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ressources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/cmt/Documents/OrgMathPlotSouce/jama-1.0.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/cmt/Documents/OrgMathPlotSouce/JMathArray-1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/cmt/Documents/OrgMathPlotSouce/JMathIO-1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/cmt/Documents/OrgMathPlotSouce/JMathPlot-1.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ressources/libs/jade/jade.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/eventbus.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jbullet.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jglfont-core.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jinput.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-blender.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-core.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-desktop.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-effects.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-jbullet.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-jogg.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-lwjgl.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-networking.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-niftygui.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-plugins.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-terrain.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jME3-testdata.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/joal.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/jogl-all.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/lwjgl.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/nifty-default-controls.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/nifty-examples.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/nifty-style-black.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/nifty.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/vecmath.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/jme/xmlpull-xpp3.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/prolog/jpl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jpl7.org/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ressources/libs/tools/sma-tools.jar"/>
+	<classpathentry kind="lib" path="ressources/libs/weka/weka-3-6-14/weka.jar" sourcepath="ressources/libs/weka/weka-3-6-14/weka-src.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/cmt/Documents/eclipse-workspace/testJDK/ressources/libs/weka/weka-3-6-14/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
